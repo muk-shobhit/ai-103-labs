@@ -1,0 +1,11 @@
+#----------dependencies------------
+azure-ai-projects
+azure-identity
+openai
+python-dotenv
+azure-identity
+agent-framework
+azure-ai-textanalytics
+azure-cognitiveservices-speech==1.48.2 
+azure-ai-translation-text==1.0.1
+azure-ai-contentunderstanding 
